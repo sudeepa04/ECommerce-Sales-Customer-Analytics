@@ -63,11 +63,11 @@ For the analysis, I worked mainly with orders, customers, products, order items,
 
 ### Executive Sales Overview
 
-![Executive Sales Overview](screenshots/slide1.jpg)
+![Executive Sales Overview](screenshots/Slide1.jpg)
 
 ### Customer & Product Analytics
 
-![Customer & Product Analytics](screenshots/slide2.jpg)
+![Customer & Product Analytics](screenshots/Slide2.jpg)
 
 ---
 

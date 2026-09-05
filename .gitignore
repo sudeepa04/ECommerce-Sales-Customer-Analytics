@@ -1,0 +1,21 @@
+# Dataset files - do not upload
+data/*.csv
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db

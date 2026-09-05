@@ -57,6 +57,19 @@ For the analysis, I worked mainly with orders, customers, products, order items,
 - **Jupyter Notebook** – Python analysis
 
 ---
+---
+
+## Power BI Dashboard
+
+### Executive Sales Overview
+
+![Executive Sales Overview](screenshots/slide1.jpg)
+
+### Customer & Product Analytics
+
+![Customer & Product Analytics](screenshots/slide2.jpg)
+
+---
 
 ## Project Workflow
 

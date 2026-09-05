@@ -58,17 +58,15 @@ For the analysis, I worked mainly with orders, customers, products, order items,
 
 ---
 ---
-
 ## Power BI Dashboard
 
 ### Executive Sales Overview
 
-![Executive Sales Overview](screenshots/Slide1.jpg)
+<img src="https://raw.githubusercontent.com/sudeepa04/ECommerce-Sales-Customer-Analytics/main/Slide1.JPG" alt="Executive Sales Overview" width="100%">
 
 ### Customer & Product Analytics
 
-![Customer & Product Analytics](screenshots/Slide2.jpg)
-
+<img src="https://raw.githubusercontent.com/sudeepa04/ECommerce-Sales-Customer-Analytics/main/Slide2.JPG" alt="Customer & Product Analytics" width="100%">
 ---
 
 ## Project Workflow
